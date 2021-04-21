@@ -14,4 +14,4 @@ First clone this repo using the below mentioned command.
 ```
 git clone https://github.com/vishnureddys/vehicle-registration-system.git
 ```
-Now move into the directory and run it using wordpress. You can visit localhost/wordpress a browser of your choice to visit this website. 
+Now move into the directory and run it using wordpress. You can visit localhost/wordpress in a browser of your choice to visit this website. 
